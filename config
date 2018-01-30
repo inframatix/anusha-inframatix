@@ -5,5 +5,3 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
-[remote "origin"]
-	url = https://github.com/inframatix/abcd.git
